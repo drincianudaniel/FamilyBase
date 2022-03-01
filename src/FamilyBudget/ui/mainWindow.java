@@ -150,4 +150,8 @@ public class mainWindow {
 	public static void setVisible() {
 		frame.setVisible(true);
 	}
+	
+	public static void functie() {
+		
+	}
 }
